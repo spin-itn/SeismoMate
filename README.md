@@ -1,4 +1,4 @@
-# SeismotMate
+# SeismoMate
 
 The "SeismoMate" repository is a simple collection of useful links to coding and data management resources for geophysicists working in the field of seismology. It aims to provide easy access to valuable resources that can help seismologists improve their coding skills and manage their data more effectively.
 
